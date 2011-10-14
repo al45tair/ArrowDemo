@@ -1,0 +1,13 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {takeArrowAngleFrom = id; takeArrowSizeFrom = id; }; 
+            CLASS = TestView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {arrowAngleSlider = NSSlider; arrowSizeSlider = NSSlider; }; 
+            SUPERCLASS = NSView; 
+        }
+    ); 
+    IBVersion = 1; 
+}
